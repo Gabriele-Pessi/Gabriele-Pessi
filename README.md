@@ -9,6 +9,8 @@ Tenho experiência em **provedores de internet**, com atuação operacional e fi
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
 📚 Em aprendizagem
 

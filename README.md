@@ -1,5 +1,5 @@
 
-## Bem-vindo(a) ao meu pergil Gabriele Pessi 😁
+## Bem-vindo(a) ao meu perfil Gabriele Pessi 😁
 
  <div>
    <a href="https://github.com/Gabriele-Pessi">
@@ -15,7 +15,7 @@
  
 <br>
  
-### Para mais informações sobre mim, acesse as redes abaixo!
+### Para mais informações sobre mim, pode acessar as seguintes redes sociais! 
  
 <div> 
   <a href="https://www.instagram.com/gabrielepessi?igsh=cTl1Ym1pZmZlOXFq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

@@ -6,7 +6,7 @@ Tenho experiência em **provedores de internet**, com atuação operacional e fi
 ![Status](https://img.shields.io/badge/Status-Transição%20de%20Carreira-blue)
 ![Formação](https://img.shields.io/badge/Formação-Sistemas%20para%20Internet-purple)
 
-###💻 Linguagens
+💻 Linguagens
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
@@ -14,7 +14,7 @@ Tenho experiência em **provedores de internet**, com atuação operacional e fi
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
-###📊 Ferramentas / Pacotes / Análise
+📊 Ferramentas / Pacotes / Análise
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)

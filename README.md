@@ -1,5 +1,5 @@
 
-## Bem-vindo(a) ao perfil da Gabriele-Pessi 😁
+## Bem-vindo(a) ao meu pergil Gabriele Pessi 😁
 
  <div>
    <a href="https://github.com/Gabriele-Pessi">

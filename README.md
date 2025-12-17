@@ -17,6 +17,7 @@ Tenho experiência em **provedores de internet**, com atuação operacional e fi
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?logo=google-docs&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)
 

@@ -14,7 +14,7 @@ Tenho experiência em **provedores de internet**, com atuação operacional e fi
 
 - Desenvolvimento Web.
 - Boas práticas de HTML e CSS.
-- Lógica de programação
+- Lógica de programação.
 - Organização de projetos e logística.
 
 <div>

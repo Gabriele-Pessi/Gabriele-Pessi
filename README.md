@@ -1,6 +1,6 @@
 
 ## Bem-vindo(a) ao meu perfil 😁
-💻 Formada em **Sistemas para Internet**, em transição de carreira para **Tecnologia da Informação**, com foco em **Desenvolvimento Web**.  
+Formada em **Sistemas para Internet**, em transição de carreira para **Tecnologia da Informação**, com foco em **Desenvolvimento Web**.  
 Tenho experiência em **provedores de internet**, com atuação operacional e financeira, além de bom entendimento sobre **integrações, processos e fundamentos de redes**.
 
 💻 Linguagens

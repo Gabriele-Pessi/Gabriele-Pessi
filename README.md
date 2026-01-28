@@ -3,15 +3,13 @@
 Formada em **Sistemas para Internet**, e em transição de carreira para **Tecnologia da Informação**, com foco em **Desenvolvimento Web**.  
 Tenho experiência em **provedores de internet**, com atuação operacional e financeira, além de bom entendimento sobre **integrações, processos e fundamentos de redes**.
 
-💻 Linguagens
+##💻 Linguagens
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-
-📊 Ferramentas / Pacotes / Análise
 
 ## 📊 Ferramentas & Pacotes
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
@@ -21,7 +19,7 @@ Tenho experiência em **provedores de internet**, com atuação operacional e fi
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?logo=google-docs&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)
 
-📚 Em aprendizagem
+##📚 Em aprendizagem
 
 - Desenvolvimento Web.
 - Boas práticas de HTML e CSS.
